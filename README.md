@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sametivon
-- 👀 I’m interested in APEX
-- 🌱 I’m currently learning SALESFORCE
-- 💞️ I’m looking to collaborate on SALESFORCE DEVELOPERS
+- 👀 I’m interested in APEX and JS
+- 🌱 I’m currently learning SALESFORCE and JS
+- 💞️ I’m looking to collaborate on SALESFORCE DEVELOPERS and Frontend DEVELOPERS
 - 📫 How to reach me @linkedin.com/sametivon
 
 <!---
