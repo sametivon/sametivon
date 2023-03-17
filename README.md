@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sametivon
+- 👋 Hi, I’m mecit.
 - 👀 I’m interested in APEX and JS
 - 🌱 I’m currently learning SALESFORCE and JS
 - 💞️ I’m looking to collaborate on SALESFORCE DEVELOPERS and Frontend DEVELOPERS
