@@ -1,7 +1,6 @@
-- 👋 Hi, I’m mecit.
-- 👀 I’m interested in APEX and JS
-- 🌱 I’m currently learning SALESFORCE and JS
-- 💞️ I’m looking to collaborate on SALESFORCE DEVELOPERS and Frontend DEVELOPERS
+- 👋 Hi, it's Sam.
+- 👀 I’m interested in vibecoding
+
 - 📫 How to reach me @linkedin.com/sametivon
 
 <!---
